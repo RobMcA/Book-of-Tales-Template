@@ -26,8 +26,18 @@
     { "id": "desperate",  "name": "Desperate",  "offset": 20 }
   ],
   "characters": [
-    { "id": "character-placeholder-1", "name": "Character 1", "base": 1000 },
-    { "id": "character-placeholder-2", "name": "Character 2", "base": 2000 }
+    { "id": "king",    "name": "King",    "base": 1000 },
+    { "id": "queen",   "name": "Queen",   "base": 1100 },
+    { "id": "knight",  "name": "Knight",  "base": 1200 },
+    { "id": "squire",  "name": "Squire",  "base": 1300 },
+    { "id": "maiden",  "name": "Maiden",  "base": 1400 },
+    { "id": "hunter",  "name": "Hunter",  "base": 1500 },
+    { "id": "hermit",  "name": "Hermit",  "base": 1600 },
+    { "id": "rogue",   "name": "Rogue",   "base": 1700 },
+    { "id": "fool",    "name": "Fool",    "base": 1800 },
+    { "id": "giant",   "name": "Giant",   "base": 1900 },
+    { "id": "dwarf",   "name": "Dwarf",   "base": 2000 },
+    { "id": "faerie",  "name": "Faerie",  "base": 2100 }
   ],
   "milieus": [
     {
