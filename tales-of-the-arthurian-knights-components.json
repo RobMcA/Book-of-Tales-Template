@@ -1,8 +1,8 @@
 {
   "ages": [
-    { "id": "1", "name": "Golden Age of Camelot",  "startPassage": "1000", "milieuBase": 1000 },
-    { "id": "2", "name": "Quest of the Holy Grail", "startPassage": "2000", "milieuBase": 2000 },
-    { "id": "3", "name": "Final Wars of Britain",   "startPassage": "3000", "milieuBase": 3000 }
+    { "id": "1", "name": "Golden Age of Camelot",  "startPassage": "1000", "milieuBase": 2200 },
+    { "id": "2", "name": "Quest of the Holy Grail", "startPassage": "2000", "milieuBase": 2300 },
+    { "id": "3", "name": "Final Wars of Britain",   "startPassage": "3000", "milieuBase": 2400 }
   ],
   "terrains": [
     { "id": "city",     "name": "City" },
