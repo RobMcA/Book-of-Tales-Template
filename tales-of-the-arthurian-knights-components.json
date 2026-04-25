@@ -1,0 +1,38 @@
+{
+  "ages": [
+    { "id": "1", "name": "Golden Age of Camelot",  "startPassage": "1000", "milieuBase": 1000 },
+    { "id": "2", "name": "Quest of the Holy Grail", "startPassage": "2000", "milieuBase": 2000 },
+    { "id": "3", "name": "Final Wars of Britain",   "startPassage": "3000", "milieuBase": 3000 }
+  ],
+  "terrains": [
+    { "id": "city",     "name": "City" },
+    { "id": "forest",   "name": "Forest" },
+    { "id": "mountain", "name": "Mountain" },
+    { "id": "plains",   "name": "Plains" },
+    { "id": "swamp",    "name": "Swamp" },
+    { "id": "sea",      "name": "Sea" }
+  ],
+  "features": [
+    { "id": "feature-placeholder-1", "name": "Feature 1", "offset": 0 },
+    { "id": "feature-placeholder-2", "name": "Feature 2", "offset": 1 }
+  ],
+  "characters": [
+    { "id": "character-placeholder-1", "name": "Character 1", "base": 1000 },
+    { "id": "character-placeholder-2", "name": "Character 2", "base": 2000 }
+  ],
+  "milieus": [
+    {
+      "id": "milieu-placeholder-1",
+      "name": "Milieu 1",
+      "terrainOffsets": {
+        "city":     0,
+        "forest":   1,
+        "mountain": 2,
+        "plains":   3,
+        "swamp":    4,
+        "sea":      5
+      }
+    }
+  ],
+  "epiloguePassage": "9999"
+}
