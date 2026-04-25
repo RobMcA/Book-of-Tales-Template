@@ -186,6 +186,20 @@
     { "id": "the-bridge-of-death",      "name": "The Bridge of Death",      "passage": "1318" },
     { "id": "the-vision",               "name": "The Vision",               "passage": "1324" }
   ],
+  "skills": [
+    { "id": "warfare",        "name": "Warfare",        "category": "Martial"    },
+    { "id": "sword-shield",   "name": "Sword & Shield", "category": "Martial"    },
+    { "id": "mounted",        "name": "Mounted",        "category": "Martial"    },
+    { "id": "piety",          "name": "Piety",          "category": "Spiritual"  },
+    { "id": "wisdom",         "name": "Wisdom",         "category": "Spiritual"  },
+    { "id": "magic",          "name": "Magic",          "category": "Spiritual"  },
+    { "id": "diplomacy",      "name": "Diplomacy",      "category": "Courtly"    },
+    { "id": "cunning",        "name": "Cunning",        "category": "Courtly"    },
+    { "id": "honor",          "name": "Honor",          "category": "Courtly"    },
+    { "id": "nature-lore",    "name": "Nature Lore",    "category": "Wilderness" },
+    { "id": "endure-hardship","name": "Endure Hardship","category": "Wilderness" },
+    { "id": "hunting",        "name": "Hunting",        "category": "Wilderness" }
+  ],
   "statuses": [
     { "id": "accompanied",  "name": "Accompanied"  },
     { "id": "accursed",     "name": "Accursed"     },
