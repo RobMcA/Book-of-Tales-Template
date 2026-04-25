@@ -13,8 +13,17 @@
     { "id": "sea",      "name": "Sea" }
   ],
   "features": [
-    { "id": "feature-placeholder-1", "name": "Feature 1", "offset": 0 },
-    { "id": "feature-placeholder-2", "name": "Feature 2", "offset": 1 }
+    { "id": "wandering",  "name": "Wandering",  "offset": 1  },
+    { "id": "sorrowful",  "name": "Sorrowful",  "offset": 2  },
+    { "id": "blessed",    "name": "Blessed",    "offset": 3  },
+    { "id": "enchanted",  "name": "Enchanted",  "offset": 4  },
+    { "id": "amorous",    "name": "Amorous",    "offset": 5  },
+    { "id": "mad",        "name": "Mad",        "offset": 7  },
+    { "id": "vengeful",   "name": "Vengeful",   "offset": 10 },
+    { "id": "wise",       "name": "Wise",       "offset": 12 },
+    { "id": "cunning",    "name": "Cunning",    "offset": 13 },
+    { "id": "lost",       "name": "Lost",       "offset": 15 },
+    { "id": "desperate",  "name": "Desperate",  "offset": 20 }
   ],
   "characters": [
     { "id": "character-placeholder-1", "name": "Character 1", "base": 1000 },
