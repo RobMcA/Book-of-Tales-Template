@@ -160,5 +160,31 @@
       "visitPassages": { "1": "2512", "2": "2524", "3": "2536" }
     }
   ],
+  "quests": [
+    { "id": "dragon-slayer",            "name": "Dragon Slayer",            "passage": "1009" },
+    { "id": "journey-into-the-unknown", "name": "Journey into the Unknown", "passage": "1011" },
+    { "id": "kingdom-of-destiny",       "name": "Kingdom of Destiny",       "passage": "1016" },
+    { "id": "resplendent-beauty",       "name": "Resplendent Beauty",       "passage": "1018" },
+    { "id": "artifacts-of-power",       "name": "Artifacts of Power",       "passage": "1022" },
+    { "id": "quest-for-the-white-hart", "name": "Quest for the White Hart", "passage": "1024" },
+    { "id": "the-ghost-king",           "name": "The Ghost King",           "passage": "1040" },
+    { "id": "saxon-raiders",            "name": "Saxon Raiders",            "passage": "1109" },
+    { "id": "the-invisible-knight",     "name": "The Invisible Knight",     "passage": "1111" },
+    { "id": "magnificent-deeds",        "name": "Magnificent Deeds",        "passage": "1116" },
+    { "id": "a-need-for-wisdom",        "name": "A Need for Wisdom",        "passage": "1118" },
+    { "id": "visit-to-the-otherworld",  "name": "Visit to the Otherworld",  "passage": "1122" },
+    { "id": "ancient-treaty",           "name": "Ancient Treaty",           "passage": "1124" },
+    { "id": "the-loathsome-damsel",     "name": "The Loathsome Damsel",     "passage": "1137" },
+    { "id": "the-knight-of-swords",     "name": "The Knight of Swords",     "passage": "1209" },
+    { "id": "the-three-maidens",        "name": "The Three Maidens",        "passage": "1211" },
+    { "id": "lost-dwarfs",              "name": "Lost Dwarfs",              "passage": "1218" },
+    { "id": "the-crystal-keep",         "name": "The Crystal Keep",         "passage": "1224" },
+    { "id": "the-strange-bed",          "name": "The Strange Bed",          "passage": "1239" },
+    { "id": "blessed-companion",        "name": "Blessed Companion",        "passage": "1309" },
+    { "id": "dark-plague",              "name": "Dark Plague",              "passage": "1311" },
+    { "id": "baleful-warlock",          "name": "Baleful Warlock",          "passage": "1316" },
+    { "id": "the-bridge-of-death",      "name": "The Bridge of Death",      "passage": "1318" },
+    { "id": "the-vision",               "name": "The Vision",               "passage": "1324" }
+  ],
   "epiloguePassage": "9999"
 }
