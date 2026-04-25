@@ -247,7 +247,11 @@
     { "id": "enraged",      "name": "Enraged"      },
     { "id": "ensorcelled",  "name": "Ensorcelled"  },
     { "id": "esteemed",     "name": "Esteemed"     },
-    { "id": "imprisoned",   "name": "Imprisoned"   },
+    { "id": "imprisoned",   "name": "Imprisoned",   "encounters": [
+        { "label": "Attempt to escape",  "passage": "2537" },
+        { "label": "Attempt to rescue",  "passage": "2544" }
+      ]
+    },
     { "id": "licentious",   "name": "Licentious"   },
     { "id": "lost",         "name": "Lost"         },
     { "id": "mad",          "name": "Mad"          },
@@ -255,7 +259,10 @@
     { "id": "obsessed",     "name": "Obsessed"     },
     { "id": "pariah",       "name": "Pariah"       },
     { "id": "plague-ridden","name": "Plague-Ridden"},
-    { "id": "pursued",      "name": "Pursued"      },
+    { "id": "pursued",      "name": "Pursued",      "encounters": [
+        { "label": "Fail to evade", "passage": "2550" }
+      ]
+    },
     { "id": "scorned",      "name": "Scorned"      },
     { "id": "smitten",      "name": "Smitten"      },
     { "id": "unhorsed",     "name": "Unhorsed"     },
