@@ -41,16 +41,49 @@
   ],
   "milieus": [
     {
-      "id": "milieu-placeholder-1",
-      "name": "Milieu 1",
-      "terrainOffsets": {
-        "city":     0,
-        "forest":   1,
-        "mountain": 2,
-        "plains":   3,
-        "swamp":    4,
-        "sea":      5
-      }
+      "id": "perilous-cave",
+      "name": "Perilous Cave",
+      "terrainOffsets": { "city": 1,  "forest": 13, "mountain": 25, "plains": 37, "swamp": 49, "sea": 61 }
+    },
+    {
+      "id": "mysterious-castle",
+      "name": "Mysterious Castle",
+      "terrainOffsets": { "city": 2,  "forest": 14, "mountain": 26, "plains": 38, "swamp": 50, "sea": 62 }
+    },
+    {
+      "id": "strange-beast",
+      "name": "Strange Beast",
+      "terrainOffsets": { "city": 5,  "forest": 17, "mountain": 29, "plains": 41, "swamp": 53, "sea": 65 }
+    },
+    {
+      "id": "raging-storm",
+      "name": "Raging Storm",
+      "terrainOffsets": { "city": 6,  "forest": 18, "mountain": 30, "plains": 42, "swamp": 54, "sea": 66 }
+    },
+    {
+      "id": "ruthless-brigands",
+      "name": "Ruthless Brigands",
+      "terrainOffsets": { "city": 7,  "forest": 19, "mountain": 31, "plains": 43, "swamp": 55, "sea": 67 }
+    },
+    {
+      "id": "clandestine-meeting",
+      "name": "Clandestine Meeting",
+      "terrainOffsets": { "city": 8,  "forest": 20, "mountain": 32, "plains": 44, "swamp": 56, "sea": 68 }
+    },
+    {
+      "id": "abandoned-ruins",
+      "name": "Abandoned Ruins",
+      "terrainOffsets": { "city": 9,  "forest": 21, "mountain": 33, "plains": 45, "swamp": 57, "sea": 69 }
+    },
+    {
+      "id": "harrowing-battlefield",
+      "name": "Harrowing Battlefield",
+      "terrainOffsets": { "city": 11, "forest": 23, "mountain": 35, "plains": 47, "swamp": 59, "sea": 71 }
+    },
+    {
+      "id": "magnificent-feast",
+      "name": "Magnificent Feast",
+      "terrainOffsets": { "city": 12, "forest": 24, "mountain": 36, "plains": 48, "swamp": 60, "sea": 72 }
     }
   ],
   "epiloguePassage": "9999"
