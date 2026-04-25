@@ -1,6 +1,6 @@
 # Book of Tales Template
 
-A starting point for creating your own collection of custom encounter books for *Tales of the Arthurian Knights*, loadable in the [Book of Infinite Tales](https://book-of-infinite-tales.github.io) reader.
+A starting point for creating your own collection of custom Books of Tales for *Tales of the Arthurian Knights*, loadable in the [Book of Infinite Tales](https://book-of-infinite-tales.github.io) reader.
 
 Fork this repository, replace the example content with your own passages, and share the result with other players. If you like, submit your collection to the [Library of Infinite Tales](https://github.com/RobMcA/Library-of-Infinite-Tales) registry so it appears in the reader's community section.
 
@@ -42,7 +42,7 @@ GitHub account. Please help me set up my collection.
 
 My GitHub username: [YOUR_GITHUB_USERNAME]
 My fork's repo name: [YOUR_REPO_NAME]
-My collection title: [e.g. "The Knights of the Vale — Encounter Supplements"]
+My collection title: [e.g. "The Knights of the Vale — Books of Tales"]
 My name (for author fields): [YOUR_NAME]
 
 Please:
@@ -64,10 +64,10 @@ Please:
 
 ## Prompt 2 — Create a new book
 
-Paste the following into Claude each time you want to add a new encounter book to your collection. Fill in every bracketed field — the more detail you give about the encounter theme, the better the generated passages will be.
+Paste the following into Claude each time you want to add a new Book of Tales to your collection. Fill in every bracketed field — the more detail you give about the encounter theme, the better the generated passages will be.
 
 ```
-I'm adding a new encounter book to my Book of Tales collection at
+I'm adding a new Book of Tales to my collection at
 https://github.com/[USERNAME]/[REPO-NAME].
 My local clone is checked out at [LOCAL PATH TO REPO].
 

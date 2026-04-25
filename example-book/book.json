@@ -3,7 +3,7 @@
   "title": "Example Book",
   "author": "Your Name",
   "version": "0.1.0",
-  "description": "A starter encounter book. Replace this content with your own.",
+  "description": "A starter Book of Tales. Replace this content with your own.",
   "components": "../tales-of-the-arthurian-knights-components.json",
   "entries": [
     {
