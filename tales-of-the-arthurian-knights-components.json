@@ -186,6 +186,31 @@
     { "id": "the-bridge-of-death",      "name": "The Bridge of Death",      "passage": "1318" },
     { "id": "the-vision",               "name": "The Vision",               "passage": "1324" }
   ],
+  "treasures": [
+    { "id": "skein-of-crossing",          "name": "Skein of Crossing"          },
+    { "id": "holy-lance",                  "name": "Holy Lance"                  },
+    { "id": "shield-of-evalach",           "name": "Shield of Evalach"           },
+    { "id": "sword-of-the-strange-belt",   "name": "Sword of the Strange Belt"   },
+    { "id": "necklace-of-the-lake",        "name": "Necklace of the Lake"        },
+    { "id": "rhongomyniad",                "name": "Rhongomyniad"                },
+    { "id": "stone-of-giramphiel",         "name": "Stone of Giramphiel"         },
+    { "id": "staff-of-merlin",             "name": "Staff of Merlin"             },
+    { "id": "clarent",                     "name": "Clarent"                     },
+    { "id": "white-dun-mane",              "name": "White Dun-Mane"              },
+    { "id": "faerie-ring",                 "name": "Faerie Ring"                 },
+    { "id": "cronish-harp",                "name": "Cronish Harp"                },
+    { "id": "cauldron-of-annwyn",          "name": "Cauldron of Annwyn"          },
+    { "id": "goswhit",                     "name": "Goswhit"                     },
+    { "id": "prydwen",                     "name": "Prydwen"                     },
+    { "id": "unfailing-bow",               "name": "Unfailing Bow"               },
+    { "id": "green-sash",                  "name": "Green Sash"                  },
+    { "id": "carnwennan",                  "name": "Carnwennan"                  }
+  ],
+  "renown": [
+    { "id": "divinity", "name": "Divinity" },
+    { "id": "romance",  "name": "Romance"  },
+    { "id": "villainy", "name": "Villainy" }
+  ],
   "skills": [
     { "id": "warfare",        "name": "Warfare",        "category": "Martial"    },
     { "id": "sword-shield",   "name": "Sword & Shield", "category": "Martial"    },
